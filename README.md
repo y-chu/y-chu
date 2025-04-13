@@ -7,6 +7,12 @@
 - 🌱 I’m currently working on: 
   - 🧠 Application of pre-trained language models and machine learning for population health research
   - 🌍 Demographic estimation in resource-limited settings
+
+- ⚡ I'm a multilingual data analyst / scientist / engineer ...
+  - R, Python, Julia, Stata, SPSS, ....
+
+- 💬 Learn more about me, please visit: https://y-chu.github.io
+- 📫 How to reach me: ychu612@gmail.com
   
 
 
